@@ -1,6 +1,10 @@
 #### Zebra-FX_Connect_FX75 and FX96 to 123RFID Desktop
 ## FX7500とFX9600を123RFID Desktopに認識させる方法
 
+UPDATE: 2026/09/02
+
+<br/>
+
 ![alt text](image-5.png)
 
 本頁ではZebra設置式リーダであるFX7500/FX9600を"123RFID Desktop"に接続する方法をご説明します。FXシリーズは色々なI/Fでデータ通信ができますが、最も一般的なEthernetを用いた方法をご説明します。
@@ -74,9 +78,15 @@
 
 
 1. ログインする。
+   ```
    Username: admin
    Password: change (初期パスワード)
+   ```
+    
+    ※ 初期パスワードでログインした後はパスワード変更の依頼処理が実行されます。
+
     <br/>
+
 
 
 1. (重要) IPアドレスを確認する。
